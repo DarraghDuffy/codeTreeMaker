@@ -1,0 +1,7 @@
+{
+	"excluded" : [".svn"],
+	"scanDirectory" : "../Source",
+	"destinationDirectory" : "../codeTree"
+}
+
+

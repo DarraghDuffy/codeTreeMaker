@@ -1,0 +1,22 @@
+{
+  "name": "CodeTreeMaker",
+  "version": "0.0.1-a",
+  "description": "",
+  "main": "CodeTreeMaker.js",
+  "keywords": [
+    "CodeTreeMaker"
+  ],
+  "author": "Darragh Duffy",
+  "license": "MIT",
+  "dependencies": {
+    "file": "^0.2.2",
+    "minimist": "^1.1.1"
+  },
+  "maintainers": [
+    {
+      "name": "darragh.duffy",
+      "email": "darraghduffy@me.com"
+    }
+  ],
+
+}
